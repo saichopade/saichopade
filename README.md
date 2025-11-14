@@ -290,4 +290,99 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=✨+Code.+Learn.+Build.+Improve.+✨" alt="Typing SVG" />
 </p>
 
+--
+
+<p align="center">
+  <svg width="820" height="84" viewBox="0 0 820 84" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bouncing Neon">
+    <style>
+      .b { font: 800 28px/1 "Segoe UI", Roboto, Arial; fill:#00f7ff; }
+    </style>
+    <defs>
+      <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+    </defs>
+    <g transform="translate(410,42)" filter="url(#g)" text-anchor="middle">
+      <!-- split text into spans so each can animate with a small delay -->
+      <text class="b" font-weight="700">
+        <tspan x="-320">✨</tspan>
+        <tspan x="-280"> </tspan>
+        <tspan x="-240">C</tspan>
+        <tspan x="-200">o</tspan>
+        <tspan x="-160">d</tspan>
+        <tspan x="-120">e</tspan>
+        <tspan x="-80">.</tspan>
+        <tspan x="-40"> </tspan>
+        <tspan x="0">L</tspan>
+        <tspan x="40">e</tspan>
+        <tspan x="80">a</tspan>
+        <tspan x="120">r</tspan>
+        <tspan x="160">n</tspan>
+        <tspan x="200">.</tspan>
+        <tspan x="240"> </tspan>
+        <tspan x="280">B</tspan>
+        <tspan x="320">u</tspan>
+        <tspan x="360">i</tspan>
+        <tspan x="400">l</tspan>
+        <tspan x="440">d</tspan>
+        <tspan x="480">.</tspan>
+        <tspan x="520"> </tspan>
+        <tspan x="560">I</tspan>
+        <tspan x="600">m</tspan>
+        <tspan x="640">p</tspan>
+        <tspan x="680">r</tspan>
+        <tspan x="720">o</tspan>
+        <tspan x="760">v</tspan>
+        <tspan x="800">e</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 -6; 0 6; 0 -6" dur="1.4s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </svg>
+</p>
+
+
+
+--
+
+<p align="center">
+  <svg width="800" height="96" viewBox="0 0 800 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon Wave">
+    <style>
+      .n { font: 700 30px/1 "Segoe UI", Roboto, Arial; fill: #00f7ff; }
+    </style>
+    <defs>
+      <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+    </defs>
+    <g transform="translate(400,48)" filter="url(#softglow)" text-anchor="middle">
+      <text class="n">
+        <tspan x="0" dy="0">✨ Code. Learn. Build. Improve. ✨</tspan>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 4; 0 -4; 0 0" dur="3.6s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </svg>
+</p>
+
+---
+<p align="center">
+  <svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon Pulse">
+    <defs>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="100%" height="100%" fill="transparent"/>
+    <text x="50%" y="55%" text-anchor="middle" font-family="Segoe UI, Roboto, Arial" font-size="28" fill="#00f7ff" filter="url(#glow)" font-weight="700">
+      ✨ Code. Learn. Build. Improve. ✨
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.8s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
 
