@@ -109,7 +109,7 @@
       <b>PyTorch</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/nolan/64/video-editing.png" width="55"/><br/>
+      <img src="https://img.icons8.com/?size=80&id=108784&format=png&color=00f7ff" width="55"/><br/>
       <b>OpenCV</b>
     </td>
     <td align="center">
@@ -117,7 +117,7 @@
       <b>Pandas</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/nolan/64/sum.png" width="55"/><br/>
+     <img src="https://img.icons8.com/?size=80&id=23248&format=png&color=00f7ff" width="55"/><br/>
       <b>NumPy</b>
     </td>
     <td align="center">
