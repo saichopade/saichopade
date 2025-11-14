@@ -53,9 +53,10 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=saichopade&show_icons=true&theme=tokyonight&hide_border=true" alt="Sai's GitHub stats" />
     &nbsp;
+  </p>
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichopade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
-
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=saichopade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
