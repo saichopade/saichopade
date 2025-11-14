@@ -26,99 +26,35 @@
 - 🌱 Currently focused on ASP.NET Core, microservices, ML pipelines and production-grade deployments
 
 ---
-<h2 align="center">❬ Tech Stack ❭</h2>
-
-<!-- ===================== LANGUAGES ===================== -->
-<h3 align="center" style="color:#00f7ff;">❬ Languages ❭</h3>
-
 <p align="center">
+
   <span style="display:inline-block; margin: 0 18px; text-align:center;">
     <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/>
-    <br/>
-    <span style="color:#00f7ff; font-weight:600;">C#</span>
+    <br/><span style="color:#00f7ff; font-weight:600;">C#</span>
   </span>
+
   <span style="display:inline-block; margin: 0 18px; text-align:center;">
     <img src="https://img.icons8.com/nolan/64/python.png" width="55"/>
-    <br/>
-    <span style="color:#00f7ff; font-weight:600;">Python</span>
+    <br/><span style="color:#00f7ff; font-weight:600;">Python</span>
   </span>
+
   <span style="display:inline-block; margin: 0 18px; text-align:center;">
     <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="55"/>
-    <br/>
-    <span style="color:#00f7ff; font-weight:600;">Java</span>
+    <br/><span style="color:#00f7ff; font-weight:600;">Java</span>
   </span>
+
   <span style="display:inline-block; margin: 0 18px; text-align:center;">
     <img src="https://img.icons8.com/nolan/64/javascript.png" width="55"/>
-    <br/>
-    <span style="color:#00f7ff; font-weight:600;">JavaScript</span>
+    <br/><span style="color:#00f7ff; font-weight:600;">JavaScript</span>
   </span>
+
   <span style="display:inline-block; margin: 0 18px; text-align:center;">
     <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/>
-    <br/>
-    <span style="color:#00f7ff; font-weight:600;">SQL</span>
+    <br/><span style="color:#00f7ff; font-weight:600;">SQL</span>
   </span>
-</p>
-
-<br/>
-
-<!-- ===================== FRAMEWORKS & TOOLS ===================== -->
-<h3 align="center" style="color:#00f7ff;">❬ Frameworks & Tools ❭</h3>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/net-framework.png" width="55"/><br/>
-  <b style="color:#00f7ff;">ASP.NET Core</b>
-
-
-  <img src="https://img.icons8.com/nolan/64/database.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Entity Framework</b>
-
-
-  <img src="https://img.icons8.com/nolan/64/heat-map.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Apache Flink</b>
-
-
-  <img src="https://img.icons8.com/nolan/64/share.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Apache Kafka</b>
-
-  <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
-  <b style="color:#00f7ff;">PostgreSQL</b>
-  <br/><br/>
-
-  <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
-  <b style="color:#00f7ff;">SQL Server</b>
- 
-
-  <img src="https://img.icons8.com/nolan/64/docker.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Docker</b>
-</p>
-
-<br/>
-
-<!-- ===================== ML LIBRARIES ===================== -->
-<h3 align="center" style="color:#00f7ff;">❬ Machine Learning & Data Libraries ❭</h3>
-
-<p align="center">
-
-  <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
-  <b style="color:#00f7ff;">PyTorch</b>
-
-
-  <img src="https://img.icons8.com/nolan/64/video-editing.png" width="55"/><br/>
-  <b style="color:#00f7ff;">OpenCV</b>
-
-
-  <img src="https://img.icons8.com/nolan/64/table.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Pandas</b>
-
-
-  <img src="https://img.icons8.com/nolan/64/sum.png" width="55"/><br/>
-  <b style="color:#00f7ff;">NumPy</b>
-
-
-  <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Scikit-Learn</b>
 
 </p>
+
 ---
 
 ## 📌 Featured Projects
