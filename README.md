@@ -26,34 +26,31 @@
 - 🌱 Currently focused on ASP.NET Core, microservices, ML pipelines and production-grade deployments
 
 ---
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/><br/>
+      <b>C#</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/python.png" width="55"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="55"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/javascript.png" width="55"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
+      <b>SQL</b>
+    </td>
+  </tr>
+</table>
 
-  <span style="display:inline-block; margin: 0 18px; text-align:center;">
-    <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/>
-    <br/><span style="color:#00f7ff; font-weight:600;">C#</span>
-  </span>
-
-  <span style="display:inline-block; margin: 0 18px; text-align:center;">
-    <img src="https://img.icons8.com/nolan/64/python.png" width="55"/>
-    <br/><span style="color:#00f7ff; font-weight:600;">Python</span>
-  </span>
-
-  <span style="display:inline-block; margin: 0 18px; text-align:center;">
-    <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="55"/>
-    <br/><span style="color:#00f7ff; font-weight:600;">Java</span>
-  </span>
-
-  <span style="display:inline-block; margin: 0 18px; text-align:center;">
-    <img src="https://img.icons8.com/nolan/64/javascript.png" width="55"/>
-    <br/><span style="color:#00f7ff; font-weight:600;">JavaScript</span>
-  </span>
-
-  <span style="display:inline-block; margin: 0 18px; text-align:center;">
-    <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/>
-    <br/><span style="color:#00f7ff; font-weight:600;">SQL</span>
-  </span>
-
-</p>
 
 ---
 
