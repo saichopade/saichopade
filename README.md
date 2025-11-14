@@ -138,12 +138,8 @@
       <b>Scikit-Learn</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=00f7ff" width="55"/><br/>
-      <b>TensorFlow</b>
-    </td>
-    <td align="center">
       <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=9b5cf6" width="55"/><br/>
-      <b>Keras</b>
+      <b>TensorFlow & Keras</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/?size=80&id=3720&format=png&color=00f7ff" width="55"/><br/>
@@ -153,7 +149,6 @@
       <img src="https://img.icons8.com/?size=80&id=61466&format=png&color=00f7ff" width="55"/><br/>
       <b>Jupyter</b>
     </td>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/?size=80&id=13379&format=png&color=00f7ff" width="55"/><br/>
       <b>SciPy</b>
