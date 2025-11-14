@@ -1,8 +1,6 @@
 
 
 <h1 align="center">Hi, I'm Sai Sanjay Chopade 👋</h1>
-<h1 align="center">❬ Sai Sanjay Chopade ❭</h1>
-
 
 <p align="center">
   <strong>Backend & ML Developer in progress</strong> • Building real-world apps with <code>.NET</code>, <code>C#</code>, <code>SQL</code>, <code>Python</code> & <code>Apache Flink</code>.
@@ -76,11 +74,26 @@
 
 ## 🌐 Connect With Me
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/sai-chopade-12873b228/  
-- 🧪 **GitHub:** https://github.com/saichopade  
-- 📧 **Email:** sayeechopade1981@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-chopade-12873b228/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/saichopade" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" height="48" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sayeechopade1981@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" height="48" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/saaauuuu.__?igsh=eXJ0NGZvNm1oZTFt&utm_source=qr" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="48" alt="Instagram"/>
+  </a>
+</p>
 
 ---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saichopade&color=blue" alt="visitor-count" />
