@@ -26,9 +26,76 @@
 - 🌱 Currently focused on ASP.NET Core, microservices, ML pipelines and production-grade deployments
 
 ---
+## 🛠️ Tech Stack (Detailed)
 
-## 🛠️ Tech Stack (short)
-`C#` • `ASP.NET Core` • `Entity Framework` • `SQL Server` • `PostgreSQL` • `Python` • `PyTorch` • `Apache Flink` • `Kafka` • `Docker` • `Git`
+<p align="center">
+
+  <!-- C# -->
+  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="60" alt="C#"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">C#</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- ASP.NET Core -->
+  <img src="https://img.icons8.com/nolan/64/net-framework.png" width="60" alt="ASP.NET Core"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">ASP.NET Core</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Entity Framework -->
+  <img src="https://img.icons8.com/nolan/64/database.png" width="60" alt="Entity Framework"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">Entity Framework</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- SQL Server -->
+  <img src="https://img.icons8.com/nolan/64/sql.png" width="60" alt="SQL Server"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">SQL Server</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="60" alt="PostgreSQL"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">PostgreSQL</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Python -->
+  <img src="https://img.icons8.com/nolan/64/python.png" width="60" alt="Python"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">Python</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- PyTorch -->
+  <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="60" alt="PyTorch"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">PyTorch</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Apache Flink -->
+  <img src="https://img.icons8.com/nolan/64/heat-map.png" width="60" alt="Apache Flink"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">Apache Flink</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Apache Kafka -->
+  <img src="https://img.icons8.com/nolan/64/share.png" width="60" alt="Kafka"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">Kafka</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Docker -->
+  <img src="https://img.icons8.com/nolan/64/docker.png" width="60" alt="Docker"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">Docker</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Git -->
+  <img src="https://img.icons8.com/nolan/64/git.png" width="60" alt="Git"/>
+  <br/>
+  <sub><b style="color:#00f7ff;">Git</b></sub>
+
+</p>
 
 ---
 
@@ -60,15 +127,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=saichopade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
-
----
-
-## 🌱 Roadmap (what I’m working on)
-- [ ] Deploy **Bulky** to Azure or Railway with CI/CD  
-- [ ] Build **REST APIs** with JWT & role-based auth (ASP.NET Core)  
-- [ ] Create a **real-time analytics** demo using Flink + Kafka  
-- [ ] Add unit & integration tests (xUnit) for backend services  
-- [ ] Improve docs and add tutorial posts for key projects
 
 ---
 
