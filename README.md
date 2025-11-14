@@ -73,12 +73,13 @@
 
 ---
 
-## 📬 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/sai-chopade-12873b228/" target="_blank">LinkedIn</a> •
-  <a href="mailto:sayeechopade1981@gmail.com">Email</a> •
-  <a href="https://github.com/saichopade" target="_blank">GitHub</a>
-</p>
+## 🌐 Connect With Me
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/sai-chopade-12873b228/  
+- 🧪 **GitHub:** https://github.com/saichopade  
+- 📧 **Email:** sayeechopade1981@gmail.com  
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saichopade&color=blue" alt="visitor-count" />
