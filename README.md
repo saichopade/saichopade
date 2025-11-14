@@ -31,7 +31,7 @@
 **Languages:**
 `C#` • `Python` • `Java` • `JavaScript` • `SQL`
 
-** Frameworks & Tools:**
+**Frameworks & Tools:**
 `ASP.NET Core` • `Entity Framework` • `Apache Flink` • `Apache Kafka`  
 `PostgreSQL` • `SQL Server` • `Docker`
 
