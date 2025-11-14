@@ -177,6 +177,91 @@
 
 *(More projects in my repos — see pinned projects on my profile.)*
 
+
+<h2 align="center">❬ Featured Projects ❭</h2>
+
+<br/>
+
+<!-- ================= BULKY ================= -->
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <img src="https://img.icons8.com/nolan/96/shopping-cart.png" width="70"/><br/>
+      <h3>🛒 Bulky – E-Commerce Web Application</h3>
+      <p>
+        ASP.NET Core MVC • EF Core • Identity  
+        Admin Dashboard • Product & Order Management  
+      </p>
+
+      <!-- Badges -->
+      <p>
+        <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-MVC-blue?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/EF_Core-ORM-purple?style=for-the-badge"/>
+      </p>
+
+      <!-- GitHub Button -->
+      <a href="https://github.com/saichopade/Bulky">
+        <img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- ================= ALZ AWARE ================= -->
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <img src="https://img.icons8.com/nolan/96/brain.png" width="70"/><br/>
+      <h3>🧠 AlzAware — Alzheimer’s Risk Prediction</h3>
+      <p>
+        Machine learning model that predicts Alzheimer's risk  
+        using medical, demographic & lifestyle factors.
+      </p>
+
+      <!-- Badges -->
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      </p>
+
+      <!-- GitHub Button -->
+      <a href="https://github.com/saichopade/AlzAware-Alzheimer-s-Risk-Assessment-and-Recommendations">
+        <img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- ================= FACIAL PARALYSIS ================= -->
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <img src="https://img.icons8.com/nolan/96/happy.png" width="70"/><br/>
+      <h3>😊 Unilateral Facial Paralysis Detection</h3>
+      <p>
+        Deep learning model (CNN) for detecting facial paralysis  
+        with **89% accuracy**, built using Python & OpenCV.
+      </p>
+      <!-- Badges -->
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep_Learning-FF1493?style=for-the-badge" />
+      </p>
+      <!-- GitHub Button -->
+      <a href="https://github.com/saichopade/Unilateral-Facial-Paralysis-Detection">
+        <img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📈 GitHub Stats & Activity
@@ -212,7 +297,6 @@
   <a href="mailto:sayeechopade1981@gmail.com">
     <img src="https://img.icons8.com/nolan/64/gmail-new.png" height="55" alt="Email"/>
   </a>
-
 </p>
 
 
