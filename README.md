@@ -287,5 +287,6 @@
 ---
 
 <p align="center">
-  <em>✨ Code. Learn. Build. Improve. ✨</em>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=✨+Code.+Learn.+Build.+Improve.+✨" alt="Typing SVG" />
 </p>
+
