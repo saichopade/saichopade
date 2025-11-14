@@ -192,14 +192,12 @@
         ASP.NET Core MVC • EF Core • Identity  
         Admin Dashboard • Product & Order Management  
       </p>
-
       <!-- Badges -->
       <p>
         <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/ASP.NET_Core-MVC-blue?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/EF_Core-ORM-purple?style=for-the-badge"/>
       </p>
-
       <!-- GitHub Button -->
       <a href="https://github.com/saichopade/Bulky">
         <img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github"/>
@@ -220,14 +218,12 @@
         Machine learning model that predicts Alzheimer's risk  
         using medical, demographic & lifestyle factors.
       </p>
-
       <!-- Badges -->
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
       </p>
-
       <!-- GitHub Button -->
       <a href="https://github.com/saichopade/AlzAware-Alzheimer-s-Risk-Assessment-and-Recommendations">
         <img src="https://img.shields.io/badge/View_on_GitHub-000000?style=for-the-badge&logo=github"/>
