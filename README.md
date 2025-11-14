@@ -51,6 +51,65 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/net-framework.png" width="55"/><br/>
+      <b>ASP.NET Core</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/database.png" width="55"/><br/>
+      <b>Entity Framework</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/heat-map.png" width="55"/><br/>
+      <b>Apache Flink</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/share.png" width="55"/><br/>
+      <b>Kafka</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
+      <b>SQL Server</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/docker.png" width="55"/><br/>
+      <b>Docker</b>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
+      <b>PyTorch</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/video-editing.png" width="55"/><br/>
+      <b>OpenCV</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/table.png" width="55"/><br/>
+      <b>Pandas</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/sum.png" width="55"/><br/>
+      <b>NumPy</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
+      <b>Scikit-Learn</b>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
