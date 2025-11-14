@@ -33,10 +33,10 @@
 
 <p align="center">
 
-  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/><br/>
-  <b style="color:#00f7ff;">C#
+  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/>
+  <b style="color:#00f7ff;">C#</B>
 
-  <img src="https://img.icons8.com/nolan/64/python.png" width="55"/><br/>
+  <img src="https://img.icons8.com/nolan/64/python.png" width="55"/>
   <b style="color:#00f7ff;">Python</b>
   <br/><br/>
 
