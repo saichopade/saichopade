@@ -291,7 +291,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.;Learn.;Build.;Improve.;Repeat.💙" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.;Learn.;Build.;Improve.;Repeat.💙" />
 </p>
 
 
