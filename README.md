@@ -26,96 +26,96 @@
 - 🌱 Currently focused on ASP.NET Core, microservices, ML pipelines and production-grade deployments
 
 ---
-<!-- Neon Tech Stack (categories, neon borders, horizontal scroll) -->
 <h2 align="center">❬ Tech Stack ❭</h2>
 
-<!-- CATEGORY: Backend -->
+<!-- BACKEND -->
 <h3 align="center" style="color:#00f7ff;">❬ Backend ❭</h3>
-<div style="overflow-x:auto; white-space:nowrap; padding:8px 4px; margin-bottom:12px;">
-  <!-- Card -->
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="64" alt="C#"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">C#</div>
-    <div style="color:#9ef0ff; font-size:12px;">Enterprise APIs</div>
-  </div>
 
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/net-framework.png" width="64" alt="ASP.NET Core"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">ASP.NET Core</div>
-    <div style="color:#9ef0ff; font-size:12px;">MVC & APIs</div>
-  </div>
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/><br/>
+  <b style="color:#00f7ff;">C#</b><br/>
+  <small style="color:#9ef0ff;">Enterprise APIs</small>
+</p>
 
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/visual-studio.png" width="64" alt="VSCode/VS"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">VS Code / Visual Studio</div>
-    <div style="color:#9ef0ff; font-size:12px;">IDE & Productivity</div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/net-framework.png" width="55"/><br/>
+  <b style="color:#00f7ff;">ASP.NET Core</b><br/>
+  <small style="color:#9ef0ff;">MVC & APIs</small>
+</p>
 
-<!-- CATEGORY: Databases -->
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/visual-studio.png" width="55"/><br/>
+  <b style="color:#00f7ff;">VS Code / Visual Studio</b><br/>
+  <small style="color:#9ef0ff;">IDE & productivity</small>
+</p>
+
+<br/>
+
+<!-- DATABASES -->
 <h3 align="center" style="color:#00f7ff;">❬ Databases ❭</h3>
-<div style="overflow-x:auto; white-space:nowrap; padding:8px 4px; margin-bottom:12px;">
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/sql.png" width="64" alt="SQL Server"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">SQL Server</div>
-    <div style="color:#9ef0ff; font-size:12px;">Relational DB</div>
-  </div>
 
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="64" alt="PostgreSQL"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">PostgreSQL</div>
-    <div style="color:#9ef0ff; font-size:12px;">Analytics / Prod DB</div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
+  <b style="color:#00f7ff;">SQL Server</b><br/>
+  <small style="color:#9ef0ff;">Relational DB</small>
+</p>
 
-<!-- CATEGORY: Machine Learning -->
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
+  <b style="color:#00f7ff;">PostgreSQL</b><br/>
+  <small style="color:#9ef0ff;">Analytics / Prod DB</small>
+</p>
+
+<br/>
+
+<!-- MACHINE LEARNING -->
 <h3 align="center" style="color:#00f7ff;">❬ Machine Learning & Data ❭</h3>
-<div style="overflow-x:auto; white-space:nowrap; padding:8px 4px; margin-bottom:12px;">
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/python.png" width="64" alt="Python"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">Python</div>
-    <div style="color:#9ef0ff; font-size:12px;">Scripting & ML glue</div>
-  </div>
 
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="64" alt="PyTorch"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">PyTorch</div>
-    <div style="color:#9ef0ff; font-size:12px;">Deep learning</div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/python.png" width="55"/><br/>
+  <b style="color:#00f7ff;">Python</b><br/>
+  <small style="color:#9ef0ff;">Scripting & ML glue</small>
+</p>
 
-<!-- CATEGORY: Streaming / Real-time -->
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
+  <b style="color:#00f7ff;">PyTorch</b><br/>
+  <small style="color:#9ef0ff;">Deep learning</small>
+</p>
+
+<br/>
+
+<!-- STREAMING -->
 <h3 align="center" style="color:#00f7ff;">❬ Streaming / Real-time ❭</h3>
-<div style="overflow-x:auto; white-space:nowrap; padding:8px 4px; margin-bottom:12px;">
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/heat-map.png" width="64" alt="Apache Flink"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">Apache Flink</div>
-    <div style="color:#9ef0ff; font-size:12px;">Stream processing</div>
-  </div>
 
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/share.png" width="64" alt="Kafka"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">Kafka</div>
-    <div style="color:#9ef0ff; font-size:12px;">Event streaming</div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/heat-map.png" width="55"/><br/>
+  <b style="color:#00f7ff;">Apache Flink</b><br/>
+  <small style="color:#9ef0ff;">Stream processing</small>
+</p>
 
-<!-- CATEGORY: DevOps & Tools -->
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/share.png" width="55"/><br/>
+  <b style="color:#00f7ff;">Kafka</b><br/>
+  <small style="color:#9ef0ff;">Event streaming</small>
+</p>
+
+<br/>
+
+<!-- DEVOPS -->
 <h3 align="center" style="color:#00f7ff;">❬ DevOps & Tools ❭</h3>
-<div style="overflow-x:auto; white-space:nowrap; padding:8px 4px; margin-bottom:20px;">
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/docker.png" width="64" alt="Docker"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">Docker</div>
-    <div style="color:#9ef0ff; font-size:12px;">Containers</div>
-  </div>
 
-  <div style="display:inline-block; text-align:center; width:140px; margin:6px; padding:10px; border-radius:10px; border:2px solid rgba(0,247,255,0.15); background:rgba(2,8,12,0.45);">
-    <img src="https://img.icons8.com/nolan/64/git.png" width="64" alt="Git"/><br/>
-    <div style="color:#00f7ff; font-weight:600; margin-top:6px;">Git</div>
-    <div style="color:#9ef0ff; font-size:12px;">Version control</div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/docker.png" width="55"/><br/>
+  <b style="color:#00f7ff;">Docker</b><br/>
+  <small style="color:#9ef0ff;">Containers</small>
+</p>
 
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/git.png" width="55"/><br/>
+  <b style="color:#00f7ff;">Git</b><br/>
+  <small style="color:#9ef0ff;">Version control</small>
+</p>
 
 ---
 
