@@ -289,24 +289,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=✨+Code.+Learn.+Build.+Improve.+✨" alt="Typing SVG" />
 </p>
----
-<p align="center">
-  <svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon Pulse">
-    <defs>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="4" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <rect width="100%" height="100%" fill="transparent"/>
-    <text x="50%" y="55%" text-anchor="middle" font-family="Segoe UI, Roboto, Arial" font-size="28" fill="#00f7ff" filter="url(#glow)" font-weight="700">
-      ✨ Code. Learn. Build. Improve. ✨
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.8s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</p>
-
-
