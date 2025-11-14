@@ -67,7 +67,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/nolan/64/net-framework.png" width="55"/><br/>
+      <img src="https://img.icons8.com/?size=80&id=100499&format=png&color=00f7ff" width="55"/><br/>
       <b>ASP.NET Core</b>
     </td>
     <td align="center">
@@ -83,7 +83,7 @@
       <b>Kafka</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
+     <img src="https://img.icons8.com/?size=80&id=38578&format=png&color=00f7ff" width="55"/><br/>
       <b>PostgreSQL</b>
     </td>
     <td align="center">
