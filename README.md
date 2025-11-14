@@ -117,7 +117,6 @@
 <h3 align="center">❬ Machine Learning & Data Libraries ❭</h3>
 
 <table align="center">
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
       <b>PyTorch</b>
@@ -138,8 +137,6 @@
       <img src="https://img.icons8.com/?size=80&id=22802&format=png&color=00f7ff" width="55"/><br/>
       <b>Scikit-Learn</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=00f7ff" width="55"/><br/>
       <b>TensorFlow</b>
@@ -149,10 +146,6 @@
       <b>Keras</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=80&id=x6VVFjzo3LkA&format=png&color=00f7ff" width="55"/><br/>
-      <b>Matplotlib</b>
-    </td>
-    <td align="center">
       <img src="https://img.icons8.com/?size=80&id=3720&format=png&color=00f7ff" width="55"/><br/>
       <b>Seaborn</b>
     </td>
@@ -160,7 +153,6 @@
       <img src="https://img.icons8.com/?size=80&id=61466&format=png&color=00f7ff" width="55"/><br/>
       <b>Jupyter</b>
     </td>
-  </tr>
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/?size=80&id=13379&format=png&color=00f7ff" width="55"/><br/>
@@ -174,13 +166,6 @@
       <img src="https://img.icons8.com/?size=80&id=60666&format=png&color=9b5cf6" width="55"/><br/>
       <b>LightGBM</b>
     </td>
-    <td align="center">
-      <!-- Empty cell for symmetry -->
-    </td>
-    <td align="center">
-      <!-- Empty cell for symmetry -->
-    </td>
-  </tr>
 </table>
 
 ---
