@@ -60,9 +60,9 @@
       <img src="https://img.icons8.com/nolan/64/php-logo.png" width="55"/><br/>
       <b>PHP</b>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/nolan/64/c-programming.png" width="55"/><br/>
-      <b>C</b>
+   <td align="center">
+      <img src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" width="55"/><br/>
+      <b>C++</b>
     </td>
     </td>
     <td align="center">
