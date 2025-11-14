@@ -33,19 +33,19 @@
 
 <p align="center">
 
-  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/>
-  <b style="color:#00f7ff;">C#</B>
+  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/><br/>
+  <b style="color:#00f7ff;">C#</b>
 
-  <img src="https://img.icons8.com/nolan/64/python.png" width="55"/>
+  <img src="https://img.icons8.com/nolan/64/python.png" width="55"/><br/>
   <b style="color:#00f7ff;">Python</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="55"/><br/>
   <b style="color:#00f7ff;">Java
 
   <img src="https://img.icons8.com/nolan/64/javascript.png" width="55"/><br/>
   <b style="color:#00f7ff;">JavaScript</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
   <b style="color:#00f7ff;">SQL</b>
@@ -61,19 +61,18 @@
 
   <img src="https://img.icons8.com/nolan/64/net-framework.png" width="55"/><br/>
   <b style="color:#00f7ff;">ASP.NET Core</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/database.png" width="55"/><br/>
   <b style="color:#00f7ff;">Entity Framework</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/heat-map.png" width="55"/><br/>
   <b style="color:#00f7ff;">Apache Flink</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/share.png" width="55"/><br/>
   <b style="color:#00f7ff;">Apache Kafka</b>
-  <br/><br/>
 
   <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
   <b style="color:#00f7ff;">PostgreSQL</b>
@@ -81,7 +80,7 @@
 
   <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
   <b style="color:#00f7ff;">SQL Server</b>
-  <br/><br/>
+ 
 
   <img src="https://img.icons8.com/nolan/64/docker.png" width="55"/><br/>
   <b style="color:#00f7ff;">Docker</b>
@@ -97,39 +96,24 @@
 
   <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
   <b style="color:#00f7ff;">PyTorch</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/video-editing.png" width="55"/><br/>
   <b style="color:#00f7ff;">OpenCV</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/table.png" width="55"/><br/>
   <b style="color:#00f7ff;">Pandas</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/sum.png" width="55"/><br/>
   <b style="color:#00f7ff;">NumPy</b>
-  <br/><br/>
+
 
   <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
   <b style="color:#00f7ff;">Scikit-Learn</b>
 
 </p>
-
-## 🛠️ Tech Stack
-
-**Languages:**
-`C#` • `Python` • `Java` • `JavaScript` • `SQL`
-
-**Frameworks & Tools:**
-`ASP.NET Core` • `Entity Framework` • `Apache Flink` • `Apache Kafka`  
-`PostgreSQL` • `SQL Server` • `Docker`
-
-**Libraries (ML & DS):**
-`PyTorch` • `OpenCV` • `Pandas` • `NumPy` • `Scikit-learn`
-
-  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="64" alt="C#"/>
-  <img src="https://img.icons8.com/nolan/64/net-framework.png" width="64" alt="ASP.NET Core"/><br/>
 ---
 
 ## 📌 Featured Projects
