@@ -28,8 +28,6 @@
 ---
 ## 🛠️ Tech Stack (Detailed)
 
-<p align="center">
-
   <!-- C# -->
   <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="60" alt="C#"/>
   <br/>
@@ -94,8 +92,6 @@
   <img src="https://img.icons8.com/nolan/64/git.png" width="60" alt="Git"/>
   <br/>
   <sub><b style="color:#00f7ff;">Git</b></sub>
-
-</p>
 
 ---
 
