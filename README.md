@@ -72,8 +72,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-chopade-12873b228/" target="_blank">
     <img src="https://img.icons8.com/nolan/64/linkedin.png" height="55" alt="LinkedIn"/>
