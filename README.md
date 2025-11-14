@@ -26,101 +26,17 @@
 - 🌱 Currently focused on ASP.NET Core, microservices, ML pipelines and production-grade deployments
 
 ---
-<h2 align="center">❬ Tech Stack ❭</h2>
+## 🛠️ Tech Stack
 
-<!-- BACKEND -->
-<h3 align="center" style="color:#00f7ff;">❬ Backend ❭</h3>
+**Languages:**
+`C#` • `Python` • `Java` • `JavaScript` • `SQL`
 
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/><br/>
-  <b style="color:#00f7ff;">C#</b><br/>
-  <small style="color:#9ef0ff;">Enterprise APIs</small>
-</p>
+** Frameworks & Tools:**
+`ASP.NET Core` • `Entity Framework` • `Apache Flink` • `Apache Kafka`  
+`PostgreSQL` • `SQL Server` • `Docker`
 
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/net-framework.png" width="55"/><br/>
-  <b style="color:#00f7ff;">ASP.NET Core</b><br/>
-  <small style="color:#9ef0ff;">MVC & APIs</small>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/visual-studio.png" width="55"/><br/>
-  <b style="color:#00f7ff;">VS Code / Visual Studio</b><br/>
-  <small style="color:#9ef0ff;">IDE & productivity</small>
-</p>
-
-<br/>
-
-<!-- DATABASES -->
-<h3 align="center" style="color:#00f7ff;">❬ Databases ❭</h3>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
-  <b style="color:#00f7ff;">SQL Server</b><br/>
-  <small style="color:#9ef0ff;">Relational DB</small>
-
- <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
-  <b style="color:#00f7ff;">PostgreSQL</b><br/>
-  <small style="color:#9ef0ff;">Analytics / Prod DB</small>
-</p>
-
-<!-- <p align="center">
-  <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
-  <b style="color:#00f7ff;">PostgreSQL</b><br/>
-  <small style="color:#9ef0ff;">Analytics / Prod DB</small>
-</p> -->
-
-<br/>
-
-<!-- MACHINE LEARNING -->
-<h3 align="center" style="color:#00f7ff;">❬ Machine Learning & Data ❭</h3>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/python.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Python</b><br/>
-  <small style="color:#9ef0ff;">Scripting & ML glue</small>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
-  <b style="color:#00f7ff;">PyTorch</b><br/>
-  <small style="color:#9ef0ff;">Deep learning</small>
-</p>
-
-<br/>
-
-<!-- STREAMING -->
-<h3 align="center" style="color:#00f7ff;">❬ Streaming / Real-time ❭</h3>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/heat-map.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Apache Flink</b><br/>
-  <small style="color:#9ef0ff;">Stream processing</small>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/share.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Kafka</b><br/>
-  <small style="color:#9ef0ff;">Event streaming</small>
-</p>
-
-<br/>
-
-<!-- DEVOPS -->
-<h3 align="center" style="color:#00f7ff;">❬ DevOps & Tools ❭</h3>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/docker.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Docker</b><br/>
-  <small style="color:#9ef0ff;">Containers</small>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/git.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Git</b><br/>
-  <small style="color:#9ef0ff;">Version control</small>
-</p>
-
+**Libraries (ML & DS):**
+`PyTorch` • `OpenCV` • `Pandas` • `NumPy` • `Scikit-learn`
 ---
 
 ## 📌 Featured Projects
