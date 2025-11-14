@@ -32,18 +32,15 @@
 <h3 align="center" style="color:#00f7ff;">❬ Languages ❭</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/>
+  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/><br/>
   <b style="color:#00f7ff;">C#</b>
-  <img src="https://img.icons8.com/nolan/64/python.png" width="55"/>
+  <img src="https://img.icons8.com/nolan/64/python.png" width="55"/><br/>
   <b style="color:#00f7ff;">Python</b>
-
-  <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="55"/>
+  <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="55"/><br/>
   <b style="color:#00f7ff;">Java
-
-  <img src="https://img.icons8.com/nolan/64/javascript.png" width="55"/>
+  <img src="https://img.icons8.com/nolan/64/javascript.png" width="55"/><br/>
   <b style="color:#00f7ff;">JavaScript</b>
-
-  <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/>
+  <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
   <b style="color:#00f7ff;">SQL</b>
 </p>
 
