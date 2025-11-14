@@ -58,13 +58,17 @@
   <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
   <b style="color:#00f7ff;">SQL Server</b><br/>
   <small style="color:#9ef0ff;">Relational DB</small>
-</p>
 
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
+ <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
   <b style="color:#00f7ff;">PostgreSQL</b><br/>
   <small style="color:#9ef0ff;">Analytics / Prod DB</small>
 </p>
+
+<!-- <p align="center">
+  <img src="https://img.icons8.com/nolan/64/postgreesql.png" width="55"/><br/>
+  <b style="color:#00f7ff;">PostgreSQL</b><br/>
+  <small style="color:#9ef0ff;">Analytics / Prod DB</small>
+</p> -->
 
 <br/>
 
