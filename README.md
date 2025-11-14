@@ -1,67 +1,90 @@
+<p align="center">
+  <img src="https://github.com/saichopade/saichopade/raw/master/profile-header.png" alt="header" width="900" style="max-width:100%;border-radius:12px"/>
+</p>
+
 <h1 align="center">Hi, I'm Sai Sanjay Chopade 👋</h1>
+<p align="center">
+  <strong>Backend & ML Developer in progress</strong> • Building real-world apps with <code>.NET</code>, <code>C#</code>, <code>SQL</code>, <code>Python</code> & <code>Apache Flink</code>.
+</p>
 
-🌟 **Backend Developer & ML Engineer in progress**  
-I work with **.NET, C#, SQL, Python, Apache Flink**, and love building real-world applications — from  
-e-commerce platforms to deep learning health models.
+<p align="center">
+  <!-- Badges -->
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Flink" src="https://img.shields.io/badge/Apache_Flink-EA6C00?style=for-the-badge&logo=apache&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-C1440E?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.E. CSE (AI & ML) student  
-- 💻 Backend & ML developer (learning by building real projects)  
-- 📊 Experience in Data Analytics, QA Automation & Deep Learning  
-- 🌱 Currently learning: **ASP.NET Core, Microservices, ML pipelines**
+## 🔭 About Me
+- 🎓 B.E. Computer Science & Engineering (AI & ML)  
+- 💼 Data Analyst Intern at Datastack Technologies — worked on pharmaceutical clinical data and real-time pipelines  
+- 🧪 Experience in QA automation, deep learning research, and full-stack web apps  
+- 🌱 Currently focused on ASP.NET Core, microservices, ML pipelines and production-grade deployments
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-`C#` • `Python` • `Java` • `JavaScript` • `SQL`
-
-**Frameworks & Tools:**  
-`ASP.NET Core` • `Entity Framework` • `Apache Flink` • `Apache Kafka`  
-`PostgreSQL` • `SQL Server` • `Docker`
-
-**Libraries (ML & DS):**  
-`PyTorch` • `OpenCV` • `Pandas` • `NumPy` • `Scikit-learn`
+## 🛠️ Tech Stack (short)
+`C#` • `ASP.NET Core` • `Entity Framework` • `SQL Server` • `PostgreSQL` • `Python` • `PyTorch` • `Apache Flink` • `Kafka` • `Docker` • `Git`
 
 ---
 
 ## 📌 Featured Projects
+- **Bulky** — Full-featured E-commerce (ASP.NET Core MVC, EF Core, Identity)  
+  https://github.com/saichopade/Bulky
 
-### 🔹 **Bulky – ASP.NET Core E-Commerce App**  
-Full-featured MVC e-commerce application with Identity, EF Core, admin roles & CRUD.  
-👉 Repo: https://github.com/saichopade/Bulky
+- **AlzAware — Alzheimer’s Risk Prediction** — ML models + recommendations  
+  https://github.com/saichopade/AlzAware-Alzheimer-s-Risk-Assessment-and-Recommendations
 
-### 🔹 **Alzheimer’s Risk Prediction (ML + Python)**  
-Built multiple ML models achieving 82% accuracy with recommendations.  
-👉 Repo: https://github.com/saichopade/AlzAware-Alzheimer-s-Risk-Assessment-and-Recommendations
+- **Unilateral Facial Paralysis Detection** — Deep learning model with 89% accuracy  
+  https://github.com/saichopade/Unilateral-Facial-Paralysis-Detection
 
-### 🔹 **Unilateral Facial Paralysis Detection (Deep Learning)**  
-Achieved 89% accuracy using CNN + InceptionV3 with facial landmarks.  
-👉 Repo: https://github.com/saichopade/Unilateral-Facial-Paralysis-Detection
+*(More projects in my repos — see pinned projects on my profile.)*
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=saichopade&show_icons=true&theme=tokyonight&hide_border=true" alt="Sai's GitHub stats" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichopade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saichopade&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saichopade&layout=compact&theme=tokyonight&hide_border=true)
-
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=saichopade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/sai-chopade-12873b228/  
-- 🧪 **GitHub:** https://github.com/saichopade  
-- 📧 **Email:** sayeechopade1981@gmail.com  
+## 🌱 Roadmap (what I’m working on)
+- [ ] Deploy **Bulky** to Azure or Railway with CI/CD  
+- [ ] Build **REST APIs** with JWT & role-based auth (ASP.NET Core)  
+- [ ] Create a **real-time analytics** demo using Flink + Kafka  
+- [ ] Add unit & integration tests (xUnit) for backend services  
+- [ ] Improve docs and add tutorial posts for key projects
 
 ---
 
-<h3 align="center">✨ "Code. Learn. Build. Improve." ✨</h3>
+## 📬 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/sai-chopade-12873b228/" target="_blank">LinkedIn</a> •
+  <a href="mailto:sayeechopade1981@gmail.com">Email</a> •
+  <a href="https://github.com/saichopade" target="_blank">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saichopade&color=blue" alt="visitor-count" />
+</p>
+
+---
+
+<p align="center">
+  <em>✨ Code. Learn. Build. Improve. ✨</em>
+</p>
