@@ -26,6 +26,14 @@
 - 🌱 Currently focused on ASP.NET Core, microservices, ML pipelines and production-grade deployments
 
 ---
+
+<h2 align="center">❬ Tech Stack ❭</h2>
+
+<br/>
+
+<!-- ===================== LANGUAGES ===================== -->
+<h3 align="center">❬ Languages ❭</h3>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -50,6 +58,11 @@
     </td>
   </tr>
 </table>
+
+<br/><br/>
+
+<!-- ===================== FRAMEWORKS & TOOLS ===================== -->
+<h3 align="center">❬ Frameworks & Tools ❭</h3>
 
 <table align="center">
   <tr>
@@ -84,6 +97,11 @@
   </tr>
 </table>
 
+<br/><br/>
+
+<!-- ===================== ML & DATA LIBRARIES ===================== -->
+<h3 align="center">❬ Machine Learning & Data Libraries ❭</h3>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -108,7 +126,6 @@
     </td>
   </tr>
 </table>
-
 
 
 ---
