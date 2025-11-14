@@ -166,22 +166,7 @@
 ---
 
 ## 📌 Featured Projects
-- **Bulky** — Full-featured E-commerce (ASP.NET Core MVC, EF Core, Identity)  
-  https://github.com/saichopade/Bulky
-
-- **AlzAware — Alzheimer’s Risk Prediction** — ML models + recommendations  
-  https://github.com/saichopade/AlzAware-Alzheimer-s-Risk-Assessment-and-Recommendations
-
-- **Unilateral Facial Paralysis Detection** — Deep learning model with 89% accuracy  
-  https://github.com/saichopade/Unilateral-Facial-Paralysis-Detection
-
-*(More projects in my repos — see pinned projects on my profile.)*
-
-
-<h2 align="center">❬ Featured Projects ❭</h2>
-
 <br/>
-
 <!-- ================= BULKY ================= -->
 <table align="center">
   <tr>
@@ -294,6 +279,119 @@
     <img src="https://img.icons8.com/nolan/64/gmail-new.png" height="55" alt="Email"/>
   </a>
 </p>
+
+
+
+
+
+
+<h2 align="center">❬ Featured Projects ❭</h2>
+
+<p align="center" style="margin-bottom:6px;">Showcasing a few polished projects — click “More” for details and demo links.</p>
+
+<br/>
+
+<!-- ================= BULKY CARD ================= -->
+<table align="center" width="720">
+  <tr>
+    <td align="center" style="padding:18px; border-radius:12px; background:rgba(2,8,12,0.45);">
+      <!-- thumbnail -->
+      <img src="https://raw.githubusercontent.com/saichopade/Bulky/master/screenshots/home.png" alt="Bulky thumbnail" width="640" style="max-width:100%; border-radius:10px;"/>
+      <h3 style="margin-top:12px;">🛒 Bulky — E-Commerce Web App</h3>
+      <p style="margin:4px 0 12px 0; color:#9ef0ff;">Full-featured e-commerce built with ASP.NET Core MVC — admin panel, cart, orders, and secure auth.</p>
+      <details>
+        <summary><b>More</b></summary>
+        <p>
+        **Overview:** Bulky is a production-style e-commerce application with role-based admin features, product & order management, coupons, and session/cart flows. <br/>
+        **Status:** Completed — ready to run locally. <br/>
+        **Run / Demo:** Clone the repo and run via Visual Studio or `dotnet run`. <br/>
+        **Repo:** https://github.com/saichopade/Bulky
+        </p>
+        <p>
+        **Screenshots:**  
+        • Home & product listing — `screenshots/home.png` <br/>
+        • Admin dashboard — `screenshots/admin-dashboard.png` <br/>
+        • Product management — `screenshots/product-edit.png`
+        </p>
+      </details>
+      <p style="margin-top:10px;">
+        <a href="https://github.com/saichopade/Bulky" target="_blank">View on GitHub</a>
+        &nbsp;•&nbsp;
+        <a href="#" target="_blank">Live demo (if deployed)</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================= ALZAWARE CARD ================= -->
+<table align="center" width="720">
+  <tr>
+    <td align="center" style="padding:18px; border-radius:12px; background:rgba(2,8,12,0.45);">
+      <!-- thumbnail -->
+      <img src="https://raw.githubusercontent.com/saichopade/AlzAware-Alzheimer-s-Risk-Assessment-and-Recommendations/master/screenshots/overview.png" alt="AlzAware thumbnail" width="640" style="max-width:100%; border-radius:10px;"/>
+      <h3 style="margin-top:12px;">🧠 AlzAware — Alzheimer’s Risk Prediction</h3>
+      <p style="margin:4px 0 12px 0; color:#9ef0ff;">ML pipeline for Alzheimer’s risk scoring + rule-based recommendations and a user-friendly interface.</p>
+      <details>
+        <summary><b>More</b></summary>
+        <p>
+        **Overview:** Trained multiple classifiers, preprocessing pipeline, and a recommendations engine that outputs lifestyle suggestions. <br/>
+        **Status:** Model trained, scripts and UI integrated. <br/>
+        **Run / Demo:** Check the repo README for data prep and run instructions. <br/>
+        **Repo:** https://github.com/saichopade/AlzAware-Alzheimer-s-Risk-Assessment-and-Recommendations
+        </p>
+        <p>
+        **Screenshots:**  
+        • Dashboard & results — `screenshots/dashboard.png` <br/>
+        • Training metrics — `screenshots/train-metrics.png`
+        </p>
+      </details>
+      <p style="margin-top:10px;">
+        <a href="https://github.com/saichopade/AlzAware-Alzheimer-s-Risk-Assessment-and-Recommendations" target="_blank">View on GitHub</a>
+        &nbsp;•&nbsp;
+        <a href="#" target="_blank">Live demo (if deployed)</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ================= FACIAL PARALYSIS CARD ================= -->
+<table align="center" width="720">
+  <tr>
+    <td align="center" style="padding:18px; border-radius:12px; background:rgba(2,8,12,0.45);">
+      <!-- thumbnail -->
+      <img src="https://raw.githubusercontent.com/saichopade/Unilateral-Facial-Paralysis-Detection/master/screenshots/result.png" alt="Facial Paralysis thumbnail" width="640" style="max-width:100%; border-radius:10px;"/>
+      <h3 style="margin-top:12px;">😊 Unilateral Facial Paralysis Detection</h3>
+      <p style="margin:4px 0 12px 0; color:#9ef0ff;">Deep learning system that detects and grades facial paralysis from images — ~89% accuracy.</p>
+      <details>
+        <summary><b>More</b></summary>
+        <p>
+        **Overview:** CNN-based approach with facial landmarks + preprocessing. Comes with inference scripts and demo notebook. <br/>
+        **Status:** Research + code published. <br/>
+        **Run / Demo:** See notebook / inference instructions in repo. <br/>
+        **Repo:** https://github.com/saichopade/Unilateral-Facial-Paralysis-Detection
+        </p>
+        <p>
+        **Screenshots / Outputs:**  
+        • Example detection — `screenshots/detection-example.png` <br/>
+        • Confusion matrix & metrics — `screenshots/metrics.png`
+        </p>
+      </details>
+      <p style="margin-top:10px;">
+        <a href="https://github.com/saichopade/Unilateral-Facial-Paralysis-Detection" target="_blank">View on GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<p align="center" style="color:#9ef0ff;">Want me to generate neon thumbnails for each project (matching your header)? <a href="#generate">Yes — generate thumbnails</a></p>
+
+
+
 
 
 ---
