@@ -135,11 +135,11 @@
     </td>
     <td align="center">
       <img src="https://img.icons8.com/?size=80&id=22802&format=png&color=00f7ff" width="55"/><br/>
-      <b>Scikit-Learn</b>
+      <b>ScikitLearn</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=9b5cf6" width="55"/><br/>
-      <b>TensorFlow & Keras</b>
+      <b>TensorFlow/Keras</b>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/?size=80&id=3720&format=png&color=00f7ff" width="55"/><br/>
