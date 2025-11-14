@@ -67,7 +67,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/?size=80&id=100499&format=png&color=00f7ff" width="55"/><br/>
+      <img src="[https://img.icons8.com/?size=80&id=100499&format=png&color=00f7ff](https://img.icons8.com/?size=80&id=100499&format=png&color=9b5cf6)" width="55"/><br/>
       <b>ASP.NET Core</b>
     </td>
     <td align="center">
