@@ -37,6 +37,9 @@
 
 **Libraries (ML & DS):**
 `PyTorch` • `OpenCV` • `Pandas` • `NumPy` • `Scikit-learn`
+
+  <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="64" alt="C#"/>
+  <img src="https://img.icons8.com/nolan/64/net-framework.png" width="64" alt="ASP.NET Core"/><br/>
 ---
 
 ## 📌 Featured Projects
