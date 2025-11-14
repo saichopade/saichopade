@@ -127,20 +127,61 @@
       <b>OpenCV</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/nolan/64/table.png" width="55"/><br/>
+      <img src="https://img.icons8.com/?size=80&id=32445&format=png&color=00f7ff" width="55"/><br/>
       <b>Pandas</b>
     </td>
     <td align="center">
-     <img src="https://img.icons8.com/?size=80&id=23248&format=png&color=00f7ff" width="55"/><br/>
+      <img src="https://img.icons8.com/?size=80&id=23248&format=png&color=00f7ff" width="55"/><br/>
       <b>NumPy</b>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="55"/><br/>
+      <img src="https://img.icons8.com/?size=80&id=22802&format=png&color=00f7ff" width="55"/><br/>
       <b>Scikit-Learn</b>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=00f7ff" width="55"/><br/>
+      <b>TensorFlow</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=9b5cf6" width="55"/><br/>
+      <b>Keras</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=80&id=x6VVFjzo3LkA&format=png&color=00f7ff" width="55"/><br/>
+      <b>Matplotlib</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=80&id=3720&format=png&color=00f7ff" width="55"/><br/>
+      <b>Seaborn</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=80&id=61466&format=png&color=00f7ff" width="55"/><br/>
+      <b>Jupyter</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=80&id=13379&format=png&color=00f7ff" width="55"/><br/>
+      <b>SciPy</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=80&id=60666&format=png&color=00f7ff" width="55"/><br/>
+      <b>XGBoost</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=80&id=60666&format=png&color=9b5cf6" width="55"/><br/>
+      <b>LightGBM</b>
+    </td>
+    <td align="center">
+      <!-- Empty cell for symmetry -->
+    </td>
+    <td align="center">
+      <!-- Empty cell for symmetry -->
+    </td>
+  </tr>
 </table>
-
 
 ---
 
