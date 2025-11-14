@@ -82,14 +82,15 @@
   <a href="https://github.com/saichopade" target="_blank">
     <img src="https://img.icons8.com/nolan/64/github.png" height="55" alt="GitHub"/>
   </a>
+    &nbsp;&nbsp;
+  <a href="https://www.instagram.com/saaauuuu.__?igsh=eXJ0NGZvNm1oZTFt&utm_source=qr" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/instagram-new.png" height="55" alt="Instagram"/>
+  </a>
   &nbsp;&nbsp;
   <a href="mailto:sayeechopade1981@gmail.com">
     <img src="https://img.icons8.com/nolan/64/gmail-new.png" height="55" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/saaauuuu.__?igsh=eXJ0NGZvNm1oZTFt&utm_source=qr" target="_blank">
-    <img src="https://img.icons8.com/nolan/64/instagram-new.png" height="55" alt="Instagram"/>
-  </a>
+
 </p>
 
 
