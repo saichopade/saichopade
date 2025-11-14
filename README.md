@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">❬ Tech Stack ❭</h2>
+## 🛠️ Tech Stack
 
 <br/>
 
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- ===================== FRAMEWORKS & TOOLS ===================== -->
 <h3 align="center">❬ Frameworks & Tools ❭</h3>
@@ -97,7 +97,7 @@
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- ===================== ML & DATA LIBRARIES ===================== -->
 <h3 align="center">❬ Machine Learning & Data Libraries ❭</h3>
