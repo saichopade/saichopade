@@ -1,13 +1,12 @@
 
 
-<h1 align="center">Hi, I'm Sai Sanjay Chopade 👋</h1>
+<!-- <h1 align="center">Hi, I'm Sai Sanjay Chopade 👋</h1>
 
 <p align="center">
   <strong>Backend & ML Developer in progress</strong> • Building real-world apps with <code>.NET</code>, <code>C#</code>, <code>SQL</code>, <code>Python</code> & <code>Apache Flink</code>.
 </p>
 
 <p align="center">
-  <!-- Badges -->
   <img alt=".NET" src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -15,6 +14,39 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Flink" src="https://img.shields.io/badge/Apache_Flink-EA6C00?style=for-the-badge&logo=apache&logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-C1440E?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://img.icons8.com/nolan/96/atom.png" alt="neon" />
+</p>
+
+<h1 align="center">
+  <span style="color:#00ffd5;">❬ Sai Sanjay Chopade ❭</span>
+</h1>
+
+<p align="center">
+  <strong>
+    <span style="color:#00f7ff;">Backend &amp; ML Developer in progress</span>
+  </strong>
+  <br/>
+  <span style="color:#9ef0ff;">Building real-world apps with</span>
+  <code style="background:#021014;color:#00ffd5;border-radius:4px;padding:2px 6px;">.NET</code>,
+  <code style="background:#021014;color:#00ffd5;border-radius:4px;padding:2px 6px;">C#</code>,
+  <code style="background:#021014;color:#00ffd5;border-radius:4px;padding:2px 6px;">SQL</code>,
+  <code style="background:#021014;color:#00ffd5;border-radius:4px;padding:2px 6px;">Python</code>
+  <span style="color:#9ef0ff;">&amp; Apache Flink</span>
+</p>
+
+<p align="center">
+  <!-- Neon badges (shields) -->
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-8.0-00ffd5?style=for-the-badge&logo=dotnet&logoColor=0b0b0b" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120-00f7ff?style=for-the-badge&logo=c%23&logoColor=0b0b0b" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0-00ffd5?style=for-the-badge&logo=python&logoColor=0b0b0b" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57-00f7ff?style=for-the-badge&logo=microsoft-sql-server&logoColor=0b0b0b" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED-00ffd5?style=for-the-badge&logo=docker&logoColor=0b0b0b" />
+  <img alt="Flink" src="https://img.shields.io/badge/Apache_Flink-EA6C00-00f7ff?style=for-the-badge&logo=apache&logoColor=0b0b0b" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-C1440E-00ffd5?style=for-the-badge&logo=apachekafka&logoColor=0b0b0b" />
 </p>
 
 ---
