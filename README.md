@@ -34,16 +34,14 @@
 <p align="center">
 
   <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width="55"/><br/>
-  <b style="color:#00f7ff;">C#</b>
-  <br/><br/>
+  <b style="color:#00f7ff;">C#
 
   <img src="https://img.icons8.com/nolan/64/python.png" width="55"/><br/>
   <b style="color:#00f7ff;">Python</b>
   <br/><br/>
 
   <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="55"/><br/>
-  <b style="color:#00f7ff;">Java</b>
-  <br/><br/>
+  <b style="color:#00f7ff;">Java
 
   <img src="https://img.icons8.com/nolan/64/javascript.png" width="55"/><br/>
   <b style="color:#00f7ff;">JavaScript</b>
