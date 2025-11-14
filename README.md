@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/saichopade/saichopade/raw/master/profile-header.png" alt="header" width="900" style="max-width:100%;border-radius:12px"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Sai Sanjay Chopade 👋</h1>
 <p align="center">
