@@ -76,21 +76,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-chopade-12873b228/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="48" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/nolan/64/linkedin.png" height="55" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/saichopade" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" height="48" alt="GitHub"/>
+    <img src="https://img.icons8.com/nolan/64/github.png" height="55" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sayeechopade1981@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" height="48" alt="Email"/>
+  <a href="mailto:sayeechopade1981@gmail.com">
+    <img src="https://img.icons8.com/nolan/64/gmail-new.png" height="55" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/saaauuuu.__?igsh=eXJ0NGZvNm1oZTFt&utm_source=qr" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="48" alt="Instagram"/>
+    <img src="https://img.icons8.com/nolan/64/instagram-new.png" height="55" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 
