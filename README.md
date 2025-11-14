@@ -53,11 +53,36 @@
       <b>JavaScript</b>
     </td>
     <td align="center">
+      <img src="https://img.icons8.com/nolan/64/typescript.png" width="55"/><br/>
+      <b>TypeScript</b>
+    </td>
+    <td align="center">
       <img src="https://img.icons8.com/nolan/64/sql.png" width="55"/><br/>
       <b>SQL</b>
     </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/php-logo.png" width="55"/><br/>
+      <b>PHP</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/c-programming.png" width="55"/><br/>
+      <b>C</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" width="55"/><br/>
+      <b>C++</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/golang.png" width="55"/><br/>
+      <b>Go</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/r.png" width="55"/><br/>
+      <b>R</b>
+    </td>
   </tr>
 </table>
+
 
 <br/>
 
